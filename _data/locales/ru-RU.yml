@@ -1,0 +1,10 @@
+tabs:
+  home: "Главная"
+  archives: "Архив"
+  categories: "Категории"
+  tags: "Теги"
+  about: "Обо мне"
+
+footer:
+  powered: "Работает на %s"
+  theme: "Тема"
